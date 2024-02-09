@@ -21,7 +21,7 @@ aqui,Joelmir Goncalves(Desenvolvedor Software).
 
 Analise e Desenvolvimento de Sistemas-Universidade Paulista(Unip);
 
-Programador Sistemas, Desenvolvimento Backend-Senac Cora Coralina;
+Programador Sistemas, Desenvolvimento Backend-Senac Cora Coralina(SenacGO);
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmir-goncalves-197702297/)
 
