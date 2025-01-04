@@ -12,18 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#          Desenvolvimento Backend
+#          Desenvolvimento Software
 caros amigos, bem vindos!
 
-aqui,Joelmir Goncalves(Desenvolvedor Software).
+aqui,Joelmir Goncalves(Desenvolvedor).
 
 ## Formaçoes:
 
 Analise e Desenvolvimento de Sistemas-Universidade Paulista(Unip);
 
 Programador Sistemas, Desenvolvimento Backend-Senac Cora Coralina(SenacGO);
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelmir-joellmirr-34a8bb2b3/)
 
 
 ![joellmirr  GitHub stats](https://github-readme-stats.vercel.app/api?username=joellmirr&show_icons=true&theme=dark)
